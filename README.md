@@ -1,3 +1,3 @@
-# QA Case Creatio Studies
+# QA Case Creation Studies
 
 
