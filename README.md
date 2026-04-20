@@ -1,3 +1,3 @@
-# game-qa-case-studies
+# QA Case Creatio Studies
 
-Casos de Estudo de QA
+
